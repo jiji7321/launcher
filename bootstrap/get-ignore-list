@@ -1,0 +1,22 @@
+[
+    "nom.txt",
+    "username.txt",
+    "options.txt",
+    "optionsof.txt",
+    "ram.txt",
+    "ram.properties",
+    "resourcepacks",
+    "resourcepacks\/",
+    "screenshots",
+    "screenshots\/",
+    "shaderpacks",
+    "shaderpacks\/",
+    "config\/ram.txt",
+    "logs\/",
+    "crash-reports",
+    "crash-reports\/",
+    "launcher.properties",
+    "launcher.txt",
+    "launcher.properties",
+    "properties.properties"
+]
